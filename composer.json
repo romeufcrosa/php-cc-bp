@@ -1,0 +1,15 @@
+{
+  "name": "romeufcrosa/php-cc-bp",
+  "description": "Attempt at a PHP Clean Code Boilerplate",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Romeu Rosa",
+      "email": "romeurosa@gmail.com"
+    }
+  ],
+  "require": {
+    "codeception/codeception": "2.3.4"
+  }
+}
