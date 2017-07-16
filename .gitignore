@@ -9,4 +9,5 @@ gen
 
 composer.lock
 composer.phar
+codecept.phar
 vendor/
